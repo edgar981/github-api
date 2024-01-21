@@ -1,0 +1,15 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "description": "pkg json to consume github api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "express": "^4.18.2"
+  }
+}
